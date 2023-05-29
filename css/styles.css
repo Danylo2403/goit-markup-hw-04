@@ -466,10 +466,6 @@ a.header-link {
   color: #404bbf;
 }
 
-.test-link:hover .test-icon {
-  fill: #404bbf;
-}
-
 .test-icon {
   width: 104px;
   height: 56px;
