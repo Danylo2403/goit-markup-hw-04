@@ -283,11 +283,13 @@ a.header-link {
   /* margin-bottom: 8px; */
 }
 
+.stratege-cont {
+}
+
 .strategy-link {
   /* width: 100%;
-  height: 100%; */
-  /* border: 1px solid #8e8f99; */
-
+  height: 100%;
+  border: 1px solid #8e8f99; */
   border-radius: 4px;
   display: flex;
   align-items: center;
@@ -496,9 +498,37 @@ a.header-link {
 
   max-width: 264px;
 }
+
 /* .footer-item-text {
   margin-top: 16px;
 } */
+
+.social-media {
+  position: absolute;
+  width: 208px;
+  height: 80px;
+}
+.social-media-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 0.02em;
+
+  /* WHITE */
+
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.footer-soc-list {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
 
 /*-------------Портфоліо-------------*/
 .gallery-btn {
