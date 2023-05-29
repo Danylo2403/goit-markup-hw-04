@@ -462,11 +462,18 @@ a.header-link {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #8e8f99;
 }
 
 .test-link:hover {
   border-color: #404bbf;
+  color: #404bbf;
 }
+.test-link:focus {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
 .test-link:hover .test-icon {
   fill: #404bbf;
 }
