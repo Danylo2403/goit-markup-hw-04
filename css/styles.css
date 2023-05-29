@@ -446,6 +446,11 @@ a.header-link {
   width: 168px;
   height: 88px;
 }
+
+/* .test-ic {
+  width: 41px;
+  height: 46.97px;
+} */
 .test-link {
   width: 100%;
   height: 100%;
@@ -467,9 +472,8 @@ a.header-link {
 }
 
 .test-icon {
-  width: 104px;
-  height: 56px;
-
+  /* width: 104px;
+  height: 56px; */
   fill: currentColor;
 }
 
