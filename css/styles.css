@@ -295,6 +295,9 @@ a.header-link {
 }
 
 .stratege-cont {
+  width: 264px;
+  height: 112px;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -303,22 +306,11 @@ a.header-link {
   margin-bottom: 8px;
 }
 
-.strategy-link {
-  /* width: 100%;
-  height: 100%;
-  border: 1px solid #8e8f99; */
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #f4f4fd;
-}
-
-.strategy-icon {
+/* .strategy-icon {
   width: 264px;
   height: 112px;
   fill: #8e8f99;
-}
+} */
 
 /*----------foto----------*/
 
